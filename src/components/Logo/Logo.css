@@ -1,7 +1,7 @@
 .tilt-container{
     height: 200px;
     width: 200px; 
-    background-color: #F08080	;
+    /* background-color: #F08080	; */
 }
 .tilt-component{
     height: 90%;
@@ -13,4 +13,10 @@
 }
 .tilt-component h1 {
     height: 100%;
+}
+#brain{
+    width: 90%;
+    height: 90%;
+    position: relative;
+    top: 9px;
 }
